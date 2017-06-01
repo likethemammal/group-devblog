@@ -17,3 +17,5 @@ keywords: 'developers, dev blog, tech industry, programming, development'
 
 # Build settings
 markdown: redcarpet
+
+theme: jekyll-theme-dinky
