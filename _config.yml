@@ -3,8 +3,8 @@ title: Who-Files
 email: dhmontgomery@gmail.com
 description: >
   Two friends. Two science-fiction shows. One blog.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://dhmontgomery.github.io/who-files/" # the base hostname & protocol for your site
+baseurl: "/who-files/" # the subpath of your site, e.g. /blog/
+url: "https://dhmontgomery.github.io" # the base hostname & protocol for your site
 permalink: :title/
 paginate: 13
 
